@@ -1,8 +1,0 @@
-spring:
-info:
-  app:
-    name: mocker
-    description: Servico de mock para desenvolvimento local
-
-server:
-  port: 8099
